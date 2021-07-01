@@ -38,3 +38,23 @@ To https://github.com/MiltMont/MiltMont.github.io.git
    d61745a..fe765c5  master -> master
 
 
+----------
+
+Thu Jul 01 2021 00:52:39 GMT-0500 (hora de verano central)
+
+To https://github.com/MiltMont/MiltMont.github.io.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/MiltMont/MiltMont.github.io.git'
+
+
+----------
+
+Thu Jul 01 2021 00:52:39 GMT-0500 (hora de verano central)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
